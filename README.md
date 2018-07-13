@@ -7,7 +7,6 @@ You can find the Doxygen info [here](http://www.stack.nl/~dimitri/doxygen/index.
 You can find the license info [here](https://choosealicense.com/).
 
 I made a logo from wix.com:
-![logo](logo_small.jpg "Jon Snow")
 
 ![logo](https://github.com/Chao8219/Doxygen_Example/blob/master/docs/logo/logo_small.jpg?raw=true)
 

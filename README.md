@@ -11,3 +11,5 @@ I made a logo from wix.com:
 ![logo](https://github.com/Chao8219/Doxygen_Example/blob/master/docs/logo/logo_small.jpg?raw=true)
 
 Looks awesome right?
+
+Also, see [here](https://chao8219.github.io/Doxygen_Example/) to enter github.io page

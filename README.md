@@ -12,4 +12,4 @@ I made a logo from wix.com:
 
 Looks awesome right?
 
-Also, see [here](https://chao8219.github.io/Doxygen_Example/) to enter github.io page
+Also, see [here](https://chao8219.github.io/Doxygen_Example/) to enter github pages.

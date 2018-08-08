@@ -8,17 +8,18 @@ using namespace std;
 
 /** @brief The CoffeeShop class is for a shop
  * that sells coffee, tea, and food, etc.
- * @author Chao
+ * @author Chao	
  */ 
 class CoffeeShop{
 public:
-    string shop_name;/**< The name of this coffee shop.*/
+    string shop_name; /**< The name of this coffee shop.*/
 
-    /** The default constructor. 
-     */ 
-    CoffeeShop(string& shop_name);
+    CoffeeShop(); /**< Default constructor. */ 
+    CoffeeShop(string& shop_name); /**< Overload constructor with shop_name.
+				    * @see shop_name
+				    */
 
-    /** The default destructor. 
+    /** Default destructor. 
      */ 
     virtual ~CoffeeShop();
 

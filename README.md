@@ -48,6 +48,8 @@ Also, see [here](https://chao8219.github.io/Doxygen_Example/) to enter github pa
 
 2. To display a parameter and describe its usage, you can use `@param FOO The example parameter.`
 
+3. To start a new line, one could use `<br>` or `\n`.
+
 [back to top](#contents)
 
 # To-do List

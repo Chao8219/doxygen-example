@@ -52,7 +52,7 @@ Also, see [here](https://chao8219.github.io/Doxygen_Example/) to enter github pa
 
 # To-do List
 
-- [ ] Make table of contents (if needed).
+- [x] Make table of contents.
 - [x] Add more comments in this example.
 
 [back to top](#contents)

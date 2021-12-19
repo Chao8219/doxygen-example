@@ -22,6 +22,30 @@ Also, see [here](https://chao8219.github.io/doxygen-example/) to enter github pa
 
 # Doxygen Note
 
+## Installation
+
+### Ubuntu 20.04
+
+For Ubuntu 20.04, before installing the Doxygen, some other packages/libraries should be installed first. 
+The following list can be helpful:
+1. CMake: one can directly download the binary `.sh` file from [CMake Download](https://cmake.org/download/), and run something like: `/bin/sh cmake-3.22.1-linux-x86_64.sh`.
+2. GNU flex: simply run: `sudo apt-get update` and `sudo apt-get install flex`.
+3. GNU bison: `sudo apt-get update` and `sudo apt-get install binson`.
+4. libiconv: follow the guide here: [Installing libiconv on Ubuntu Linux](https://geeksww.com/tutorials/libraries/libiconv/installation/installing_libiconv_on_ubuntu_linux.php)
+
+After all that, you can install the Doxygen from source:
+```shell
+git clone https://github.com/doxygen/doxygen.git
+cd doxygen
+
+mkdir build
+cd build
+cmake -G "Unix Makefiles" ..
+make
+
+sudo make install
+```
+
 ## Comment Blocks
 
 1. You can use either

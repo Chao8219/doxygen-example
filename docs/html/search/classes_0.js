@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['beverages',['Beverages',['../classCoffeeShop_1_1Beverages.html',1,'CoffeeShop']]]
+  ['beverages_0',['Beverages',['../classCoffeeShop_1_1Beverages.html',1,'CoffeeShop']]]
 ];

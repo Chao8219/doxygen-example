@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['coffeeshop',['CoffeeShop',['../classCoffeeShop.html#a1df367182e9a66e6dda688d0db969783',1,'CoffeeShop::CoffeeShop()'],['../classCoffeeShop.html#a017c047d9f3fd3395e72a58105acd32b',1,'CoffeeShop::CoffeeShop(string &amp;shop_name)']]]
+  ['beverages_0',['Beverages',['../classCoffeeShop_1_1Beverages.html#a92831946cf66fe3fe4fb28a35c96766a',1,'CoffeeShop::Beverages']]]
 ];

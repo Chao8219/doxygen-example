@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['shop_5fname',['shop_name',['../classCoffeeShop.html#ad6efd0c2040c9fd470e2e837b27547e4',1,'CoffeeShop']]]
+  ['initialize_5finventory_0',['initialize_inventory',['../classcoffee__shop__test_1_1CoffeeShop.html#a62b0d7981af7256d5dfa17d4195696d7',1,'coffee_shop_test::CoffeeShop']]]
 ];
